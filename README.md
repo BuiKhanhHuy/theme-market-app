@@ -18,7 +18,7 @@
  - Postgres SQL
  - Express
  
- 👉 Backend repo link: [Theme market web app](https://github.com/BuiKhanhHuy/theme-market-api) 
+ 👉 Backend repo link: [Theme market backend](https://github.com/BuiKhanhHuy/theme-market-api) 
 
  
 
